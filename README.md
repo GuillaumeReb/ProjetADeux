@@ -1,5 +1,10 @@
-# ProjetADeux
+Projet REACT Tuto de youtubeur : https://www.youtube.com/watch?v=dGMWsXyA37U
 
-Test de connexion depuis la tour.
+1. Setup projet avec Vite + TailwindCSS
+2. Composants
+3. useState
+4. useEffect / Fetch de données
+5. Todo list avec useOptimistic (React 19)
 
-Test de connexion depuis le laptop.
+Pour lancer le serveur Node dans le terminal :
+npm run dev
