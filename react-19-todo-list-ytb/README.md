@@ -1,6 +1,7 @@
 # React + Vite
 
 Le 13/11 je me suis arrété à 28 minutes du tuto.
+Le 19/11 je me suis arrété à 1 heure du tuto.
 
 Projet REACT Tuto de youtubeur : https://www.youtube.com/watch?v=dGMWsXyA37U
 
